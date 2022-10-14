@@ -1,4 +1,3 @@
-import React from 'react';
 import FlexBooks from '../components/FlexBooks.js';
 import '../styles/Catalog.css';
 

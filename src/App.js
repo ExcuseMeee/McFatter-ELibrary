@@ -11,7 +11,7 @@ import NavBar from './components/NavBar'
 import Footer from './components/Footer'
 import { auth, db } from './firebaseConfig';
 import { onAuthStateChanged } from 'firebase/auth';
-import { collection, getDocs, getDoc, doc, onSnapshot } from 'firebase/firestore';
+import { collection, getDoc, doc, onSnapshot } from 'firebase/firestore';
 
 
 function App() {

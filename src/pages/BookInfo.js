@@ -1,5 +1,4 @@
-import React from 'react';
-import DefaultCover from '../assets/random-book-cover.jpg';
+import DefaultCover from '../assets/default-book-cover.jpg';
 import '../styles/BookInfo.css';
 import {useParams} from 'react-router-dom';
 import { db } from '../firebaseConfig';
