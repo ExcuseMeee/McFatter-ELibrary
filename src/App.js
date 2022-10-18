@@ -72,7 +72,7 @@ function App() {
       <Router>
         <NavBar user={user} unsubUser={unsubUser}/>
         <Switch>
-          <Route exact path='/'><Welcome user={user}/></Route>
+          <Route exact path='/McFatter-ELibrary'><Welcome user={user}/></Route>
           <Route exact path='/sign-in'><SignIn/></Route>
           <Route exact path='/sign-up'><SignUp user={user}/></Route>
           <Route exact path='/catalog' ><Catalog books={books}/></Route>
