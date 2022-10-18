@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/McFatter-ELibrary/static/css/main.0f7cfb48.css",
+    "main.js": "/McFatter-ELibrary/static/js/main.d1703442.js",
+    "static/media/logo-mcfatter.png": "/McFatter-ELibrary/static/media/logo-mcfatter.82d50760f3f17b109f2b.png",
+    "static/media/default-book-cover.jpg": "/McFatter-ELibrary/static/media/default-book-cover.b4b752d9420877ecc11e.jpg",
+    "index.html": "/McFatter-ELibrary/index.html",
+    "main.0f7cfb48.css.map": "/McFatter-ELibrary/static/css/main.0f7cfb48.css.map",
+    "main.d1703442.js.map": "/McFatter-ELibrary/static/js/main.d1703442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7cfb48.css",
+    "static/js/main.d1703442.js"
+  ]
+}
